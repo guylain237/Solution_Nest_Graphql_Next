@@ -4,7 +4,7 @@ Ce projet est une application CRUD complète utilisant **NestJS** pour l'API bac
 
 ## Prérequis
 
-- [Node.js](https://nodejs.org/) (version 14 ou plus récente)
+- [Node.js](https://nodejs.org/) (version 18 ou plus récente)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 - [MySQL](https://www.mysql.com/) (pour la base de données)
 
