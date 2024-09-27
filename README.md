@@ -58,11 +58,14 @@ Accédez au répertoire du projet sur vscode ou autres:
 ### Configurez l'environnement
 
 .env
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASS=password
-DB_NAME=database_name
+HOST=localhost
+PORT=3306
+DATABASE=database_name
+DB_USERNAME=root
+DB_PASSWORD=
+
+APP_PORT=3002
+ORIGIN_URL_FRONT=http://localhost:3001/graphql
 
 ### Demarrer nestjs
 
